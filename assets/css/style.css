@@ -98,10 +98,10 @@ p {
   margin: 0px; }
 
 .bg_cover {
-  background-position: center center;
-  background-size: auto;
+  background-position: center ;
+  background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 100% ;
   height: 100%; }
 
 /*==== Section Title =====*/
