@@ -749,7 +749,7 @@ p {
           right: 0;
           top: 100%;
           width: 260px;
-          background-color: #fff;
+          background-color: #ffa;
           border-radius: 5px;
           opacity: 0;
           visibility: hidden;
@@ -1046,7 +1046,7 @@ p {
       line-height: 24px;
       font-weight: 700;
       padding: 11px 16px;
-      color: #121212;
+      color: #121220;
       text-transform: uppercase;
       position: relative;
       border-radius: 5px;
@@ -1082,7 +1082,7 @@ p {
 
 .overlay-right {
   position: fixed;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0);
   top: 0;
   left: 0;
   width: 100%;
@@ -1092,13 +1092,13 @@ p {
   .overlay-right.open {
     display: block; }
 
-/*===== SLIDER ONE =====*/
+/*===== SLIDER ONE =====
 .slider-area {
   padding-top: 94px; }
   .slider-area .bd-example .carousel .carousel-inner {
-    background-color: #38f9d7; }
+    background-color: #ffffff; }
     .slider-area .bd-example .carousel .carousel-inner .carousel-item {
-      height: 700px; }
+      height: auto; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .slider-area .bd-example .carousel .carousel-inner .carousel-item {
           height: 600px; } }
