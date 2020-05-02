@@ -659,7 +659,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #3681a7;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -671,7 +671,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #43cae9;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -1092,7 +1092,7 @@ p {
   .overlay-right.open {
     display: block; }
 
-/*===== SLIDER ONE =====
+/*===== SLIDER ONE =====*/
 .slider-area {
   padding-top: 94px; }
   .slider-area .bd-example .carousel .carousel-inner {
